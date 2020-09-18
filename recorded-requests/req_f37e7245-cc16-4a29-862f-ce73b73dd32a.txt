@@ -1,0 +1,9 @@
+GET http://redirector.gvt1.com/edgedl/release2/chrome_component/ANrJiyUiF45O-sjX5BOOfB0_6120/Rze_ivT535YiTcToLWqntw HTTP/1.1
+Proxy-Connection: Keep-Alive
+Accept: */*
+Accept-Encoding: identity
+If-Unmodified-Since: Wed, 16 Sep 2020 08:11:11 GMT
+Range: bytes=4615-10068
+User-Agent: Microsoft BITS/7.8
+Host: redirector.gvt1.com
+
